@@ -1,0 +1,18 @@
+INFO:root:Ran with args: (<__main__.factor object at 0x7fefd80bd8b0>, 2046147713), and kwargs: {}
+INFO:root:Ran with args: (<__main__.factor object at 0x7fe7680558b0>, 2842685689), and kwargs: {}
+INFO:root:Ran with args: (<__main__.factor object at 0x7fcbf00758b0>, 2335883071), and kwargs: {}
+INFO:root:Factor found: 21673, in time: 0.005018949508666992
+INFO:root:Factor of 14303 found 606318473, in time: 0.0024421215057373047
+INFO:root:Factor of 595559203 found 15017, in time: 0.002485036849975586
+INFO:root:Factor of 4990620493 found 62273, in time: 0.010830879211425781
+INFO:root:Factor of 362732431819 found 399851, in time: 0.09757590293884277
+INFO:root:Factor of 763170249719 found 776551, in time: 0.22196507453918457
+INFO:root:Factor of 982248307751 found 919883, in time: 0.20446300506591797
+INFO:root:Factor of 859843441663 found 819619, in time: 0.19040989875793457
+INFO:root:Factor of 745713260311 found 816203, in time: 0.1555800437927246
+INFO:root:Factor of 125932620367 found 230539, in time: 0.043615102767944336
+INFO:root:Factor of 197504025931 found 237883, in time: 0.04027390480041504
+INFO:root:Factor of 655396462867 found 660391, in time: 0.1275038719177246
+INFO:root:Factor of 46206960341 found 196459, in time: 0.05253720283508301
+INFO:root:Factor of 501200685847 found 690187, in time: 0.1655280590057373
+INFO:root:Factor of 528579383777 found 708353, in time: 0.20405888557434082
